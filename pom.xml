@@ -4,14 +4,14 @@
 
 	<groupId>9fd72035-bac6-467f-b93a-494684d1aa6f</groupId>
 	<artifactId>covereportsapi</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 	<name>covereportsapi</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<app.runtime>4.6.0</app.runtime>
-		<mule.maven.plugin.version>4.0.0</mule.maven.plugin.version>
+		<mule.maven.plugin.version>4.1.1</mule.maven.plugin.version>
 	</properties>
 	<build>
 		<plugins>

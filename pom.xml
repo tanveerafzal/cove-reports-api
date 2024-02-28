@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>98cfe48f-9728-4efb-8d3b-08d2aa1578c2</groupId>
+	<groupId>9fd72035-bac6-467f-b93a-494684d1aa6f</groupId>
 	<artifactId>covereportsapi</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
@@ -35,8 +35,8 @@
 				      <muleVersion>${app.runtime}</muleVersion>
 				      <applicationName>mulesoft-cicd-sample109</applicationName>
 				      <environment>${env}</environment>
-				      <connectedAppClientId>116978540a4c49fab0b707a2eade90ea</connectedAppClientId>
-			              <connectedAppClientSecret>E3bD1F89494E44FDBEfB14063486dd9E</connectedAppClientSecret>
+				      <connectedAppClientId>bb73aca825ed474a82a659d6ec190465</connectedAppClientId>
+			              <connectedAppClientSecret>8887Fb95Aa294b658772EC7d3eda1D59</connectedAppClientSecret>
 			              <connectedAppGrantType>client_credentials</connectedAppGrantType>
 			              <objectStoreV2>true</objectStoreV2>
 				      <region>${region}</region>

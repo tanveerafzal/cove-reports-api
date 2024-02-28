@@ -35,13 +35,13 @@
 				      <muleVersion>${app.runtime}</muleVersion>
 				      <username>${anypoint.username}</username>
 				      <password>${anypoint.password}</password>
-				      <applicationName>${appname}</applicationName>
+				      <applicationName>CICDPipeline</applicationName>
 				      <environment>${env}</environment>
-					 <connectedAppClientId>1d5405964cb0498f9860a2a6b88975a1</connectedAppClientId>
-                      <connectedAppClientSecret>8Be842d56214423C8bf179F8d0ED64BB</connectedAppClientSecret>
+					 <connectedAppClientId>116978540a4c49fab0b707a2eade90ea</connectedAppClientId>
+                      <connectedAppClientSecret>E3bD1F89494E44FDBEfB14063486dd9E</connectedAppClientSecret>
                       <connectedAppGrantType>client_credentials</connectedAppGrantType>
                       <objectStoreV2>true</objectStoreV2>
-					  <server>TestApp</server>
+					  <server>CICDPipeline</server>
 				      <region>${region}</region>
 				      <workers>${workers}</workers>
 				      <workerType>${workerType}</workerType>

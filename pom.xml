@@ -37,7 +37,7 @@
 				      <password>${anypoint.password}</password>
 				      <applicationName>${appname}</applicationName>
 				      <environment>${env}</environment>
-					  <target>Cloudhub-US-East-2</target>
+					<!--  <target>Cloudhub-US-East-2</target>-->
 					  <provider>MC</provider>
 					  <server>TestApp</server>
 				      <region>${region}</region>

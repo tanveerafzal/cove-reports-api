@@ -41,13 +41,11 @@
                       <connectedAppClientSecret>E3bD1F89494E44FDBEfB14063486dd9E</connectedAppClientSecret>
                       <connectedAppGrantType>client_credentials</connectedAppGrantType>
                       <objectStoreV2>true</objectStoreV2>
-					  <server>CICDPipeline</server>
+					
 				      <region>${region}</region>
 				      <workers>${workers}</workers>
 				      <workerType>${workerType}</workerType>
-				      <properties>
-				        <key>value</key>
-				      </properties>
+				     
 				    </cloudHubDeployment>
 				  </configuration>
 			</plugin>
